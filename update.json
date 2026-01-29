@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 2,
-  "latestVersionName": "1.0.1-staging",
-  "downloadUrl": "https://github.com/buibag/ivapos-update-staging/releases/download/staging-1.0.1-staging/ivapos-1.0.1-staging.apk",
+  "latestVersionCode": 7,
+  "latestVersionName": "1.0.6-staging",
+  "downloadUrl": "https://github.com/buibag/ivapos-update-staging/releases/download/staging-1.0.6-staging/ivapos-1.0.6-staging.apk",
   "changelog": "Staging auto bump",
-  "sha256": "c6cf8171346eaeb69711c647fa4c85f2f00765edcfeb0990b2f02e207d558aff"
+  "sha256": "ab6399357a626edda44c86395fcadaacc76bd80cf678a0fe19c0a24132d60b0e"
 }
